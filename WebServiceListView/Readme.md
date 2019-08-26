@@ -1,6 +1,6 @@
-Reading fomr REST web services todo list, from url:
+Calling REST web services todo list, from url:
 https://jsonplaceholder.typicode.com/todos
 
-Then parsing it into ListView
+Then parsing it into a ListView
 
-Contributed by anonymous student...
+Contributed by an anonymous standout student...
